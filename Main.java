@@ -15,7 +15,7 @@ public class Main {
             sum = sum + val;
             square = square / 10;
         }
-        // Checking if the sum of Digit of the number square is equal to that number
+        // Checking if the sum of digit of the number square = number
         if (n == sum) {
             System.out.println("It is an neon number ");
         } else {
