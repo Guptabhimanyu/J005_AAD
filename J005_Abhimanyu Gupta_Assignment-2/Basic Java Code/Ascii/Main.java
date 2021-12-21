@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Ascii {
     public static void main(String[] args) {
         // Declare the object and initialize with
         // taking the value from user
